@@ -165,7 +165,4 @@ export default function Home() {
 }
 ```
 
-------------------------------------------------------------------------
 
-Si necesitas agregar más snippets, loaders o un ejemplo completo
-convertido, te lo preparo.
